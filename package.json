@@ -1,0 +1,21 @@
+{
+  "name": "buttercream-bakery",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "App to support the management of a bakery business",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
+    "test:1a": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-1a.test.js",
+    "test:1b": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-1b.test.js",
+    "test:2a": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-2a.test.js",
+    "test:2b": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-2b.test.js",
+    "test:3a": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-3a.test.js",
+    "test:3b": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-3a.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
