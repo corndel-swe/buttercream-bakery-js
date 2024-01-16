@@ -1,9 +1,7 @@
 # Buttercream Bakery
 
 <p align="center">
-
-![bakery logo](./src/assets/bakery_logo.png)
-
+  <img src="./src/assets/bakery_logo.png" alt="bakery logo" />
 </p>
 
 This project aims to provide the business owners of Buttercream Bakery Ltd with
