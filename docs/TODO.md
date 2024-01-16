@@ -4,13 +4,15 @@
 
 Reading and writing:
 
-- [ ] Read the docs on [reading and writing to files]()
+- [ ] Read the docs on
+      [reading and writing to files](https://swe-docs.netlify.app/js/reading-and-writing-files.html)
 - [ ] Exercise 1(a) (1 story point)
 - [ ] Exercise 1(b) (1 story point)
 
 Working with JSON:
 
-- [ ] Read the docs on [working with JSON]()
+- [ ] Read the docs on
+      [working with JSON](https://swe-docs.netlify.app/js/working-with-json.html)
 - [ ] Exercise 2(a) (1 story point)
 - [ ] Exercise 2(b) (1 story point)
 
