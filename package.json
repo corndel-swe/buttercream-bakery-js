@@ -5,7 +5,7 @@
   "description": "App to support the management of a bakery business",
   "main": "app.js",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand --json --outputFile=tests/testResults.json",
     "test:1a": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-1a.test.js",
     "test:1b": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-1b.test.js",
     "test:2a": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand ./tests/exercise-2a.test.js",
