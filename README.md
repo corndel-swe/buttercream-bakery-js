@@ -1,6 +1,10 @@
 # Buttercream Bakery
 
+<p align="center">
+
 ![bakery logo](./src/assets/bakery_logo.png)
+
+</p>
 
 This project aims to provide the business owners of Buttercream Bakery Ltd with
 a suite of utilities for managing their business. The business owners have
